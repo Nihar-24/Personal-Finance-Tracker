@@ -1,0 +1,48 @@
+Date,Category,Description,Income,Expense
+01/03/2023,Salary,Monthly paycheck,5500,
+01/03/2023,Rent,Studio apartment rent,,1350
+02/03/2023,Utilities,Electricity bill,,98.75
+04/03/2023,Grocery,Weekly supermarket trip,,127.4
+05/03/2023,Transportation,Monthly metro pass,,120
+08/03/2023,Insurance,Health insurance premium,,245.5
+10/03/2023,Entertainment,Netflix subscription,,19.99
+12/03/2023,Dining,Team lunch at work,,35.5
+15/03/2023,Grocery,Organic store purchase,,89.9
+17/03/2023,Personal Care,Haircut & grooming,,45
+19/03/2023,Shopping,New work shoes,,89.99
+22/03/2023,Travel,Train tickets to hometown,,175
+25/03/2023,Utilities,Mobile phone bill,,62.3
+27/03/2023,Entertainment,Concert tickets,,150
+29/03/2023,Health,Gym membership,,65
+30/03/2023,Grocery,Midnight snack run,,28.75
+01/04/2023,Salary,Monthly paycheck,5500,
+01/04/2023,Rent,Studio apartment rent,,1350
+03/04/2023,Utilities,Internet bill,,79.99
+05/04/2023,Grocery,Bulk monthly purchase,,210.25
+07/04/2023,Transportation,Ride-sharing to airport,,45.6
+09/04/2023,Dining,Birthday dinner,,85
+12/04/2023,Shopping,Summer clothes,,150
+15/04/2023,Education,Professional certification,,299
+18/04/2023,Entertainment,Movie marathon snacks,,32.5
+20/04/2023,Car,Oil change & maintenance,,189.95
+22/04/2023,Grocery,Weekend groceries,,67.3
+25/04/2023,Gifts,Friend's wedding gift,,100
+27/04/2023,Utilities,Water bill,,55.25
+29/04/2023,Health,Vitamin supplements,,42.75
+01/05/2023,Salary,Monthly paycheck + bonus,6200,
+01/05/2023,Rent,Studio apartment rent,,1350
+03/05/2023,Investments,Stock market purchase,,500
+05/05/2023,Grocery,Farmer's market haul,,89.9
+07/05/2023,Travel,Hotel booking for vacation,,450
+09/05/2023,Dining,Coffee shop meetings,,28.75
+11/05/2023,Utilities,Electricity bill,,115.6
+13/05/2023,Entertainment,Amusement park tickets,,220
+15/05/2023,Shopping,New laptop,,1499.99
+17/05/2023,Transportation,Car insurance renewal,,285
+19/05/2023,Health,Dental checkup,,125
+21/05/2023,Grocery,Emergency pantry stock,,135.5
+23/05/2023,Charity,Monthly donation,,50
+25/05/2023,Subscriptions,Spotify & YouTube Premium,,24.99
+27/05/2023,Personal Care,Spa day,,89
+29/05/2023,Utilities,AC maintenance,,175
+31/05/2023,Miscellaneous,Bank fees,,12.5
